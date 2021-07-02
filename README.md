@@ -69,15 +69,9 @@
 
 <h3 align="center">Check out some of my modified repos ☺ </h3>
 
-<a href="https://github.com/AmirulAndalib/TorrentLeechX">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirulAndalib&repo=TorrentLeechX&theme=tokyonight" />
+<a href="https://github.com/XcodersHub/TorrentLeechX">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XcodersHub&repo=TorrentLeechX&theme=tokyonight" />
 </a>
-<a href="https://github.com/AmirulAndalib/magneto-python-aria-reborn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirulAndalib&repo=magneto-python-aria-reborn&theme=dark" />
-</a> 
-<a href="https://github.com/AmirulAndalib/Google-Drive-Index">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirulAndalib&repo=Google-Drive-Index&theme=gruvbox" />
-</a> 
-<a href="https://github.com/AmirulAndalib/TerminalBotReborn">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=AmirulAndalib&repo=TerminalBotReborn&theme=algolia" />
+<a href="https://github.com/XcodersHub/magneto-python-aria-reborn">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=XcodersHub&repo=magneto-python-aria-reborn&theme=dark" />
 </a> 
