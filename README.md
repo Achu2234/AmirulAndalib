@@ -52,14 +52,6 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/TeamDaisyX/DaisyX/issues/25) in [TeamDaisyX/DaisyX](https://github.com/TeamDaisyX/DaisyX)
-2. 🗣 Commented on [#30](https://github.com/TeamDaisyX/DaisyX/issues/30) in [TeamDaisyX/DaisyX](https://github.com/TeamDaisyX/DaisyX)
-3. 🗣 Commented on [#80](https://github.com/yash-dk/TorToolkit-Telegram/issues/80) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
-4. 🗣 Commented on [#19](https://github.com/gautamajay52/testrepo/issues/19) in [gautamajay52/testrepo](https://github.com/gautamajay52/testrepo)
-5. 🎉 Merged PR [#27](https://github.com/AmirulAndalib/TorrentLeechX/pull/27) in [AmirulAndalib/TorrentLeechX](https://github.com/AmirulAndalib/TorrentLeechX)
-6. 🗣 Commented on [#27](https://github.com/AmirulAndalib/TorrentLeechX/issues/27) in [AmirulAndalib/TorrentLeechX](https://github.com/AmirulAndalib/TorrentLeechX)
-7. 💪 Opened PR [#27](https://github.com/AmirulAndalib/TorrentLeechX/pull/27) in [AmirulAndalib/TorrentLeechX](https://github.com/AmirulAndalib/TorrentLeechX)
-8. 🗣 Commented on [#79](https://github.com/yash-dk/TorToolkit-Telegram/issues/79) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
 <!--END_SECTION:activity-->
 
 
