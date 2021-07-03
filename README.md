@@ -52,6 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
+2. 💪 Opened PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
+3. 🎉 Merged PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
+4. 💪 Opened PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
+5. 🎉 Merged PR [#1](https://github.com/AmirulAndalib/lazyleech/pull/1) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
+6. 💪 Opened PR [#1](https://github.com/AmirulAndalib/lazyleech/pull/1) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
 <!--END_SECTION:activity-->
 
 
