@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-2. 🎉 Merged PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
-3. 💪 Opened PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
-4. 🎉 Merged PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
-5. 💪 Opened PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
-6. 🎉 Merged PR [#1](https://github.com/AmirulAndalib/lazyleech/pull/1) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
+1. 🎉 Merged PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+2. 💪 Opened PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+3. 🎉 Merged PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
+4. 💪 Opened PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
+5. 🎉 Merged PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
+6. 💪 Opened PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
 <!--END_SECTION:activity-->
 
 
