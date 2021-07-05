@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-2. 💪 Opened PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-3. 🎉 Merged PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
-4. 💪 Opened PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
-5. 🎉 Merged PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
-6. 💪 Opened PR [#2](https://github.com/AmirulAndalib/lazyleech/pull/2) in [AmirulAndalib/lazyleech](https://github.com/AmirulAndalib/lazyleech)
+1. 🗣 Commented on [#12](https://github.com/sobuj53/rclnTrntleech/issues/12) in [sobuj53/rclnTrntleech](https://github.com/sobuj53/rclnTrntleech)
+2. 🗣 Commented on [#12](https://github.com/sobuj53/rclnTrntleech/issues/12) in [sobuj53/rclnTrntleech](https://github.com/sobuj53/rclnTrntleech)
+3. 🎉 Merged PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+4. 💪 Opened PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+5. 🎉 Merged PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
+6. 💪 Opened PR [#1](https://github.com/XcodersHub/lazyleech-heroku/pull/1) in [XcodersHub/lazyleech-heroku](https://github.com/XcodersHub/lazyleech-heroku)
 <!--END_SECTION:activity-->
 
 
