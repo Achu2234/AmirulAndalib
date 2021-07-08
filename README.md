@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/AmirulAndalib/slam-mirrorbot-gdrive/pull/1) in [AmirulAndalib/slam-mirrorbot-gdrive](https://github.com/AmirulAndalib/slam-mirrorbot-gdrive)
-2. 💪 Opened PR [#2](https://github.com/XcodersHub/TorrentLeechX/pull/2) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-3. 🗣 Commented on [#12](https://github.com/sobuj53/rclnTrntleech/issues/12) in [sobuj53/rclnTrntleech](https://github.com/sobuj53/rclnTrntleech)
-4. 🗣 Commented on [#12](https://github.com/sobuj53/rclnTrntleech/issues/12) in [sobuj53/rclnTrntleech](https://github.com/sobuj53/rclnTrntleech)
-5. 🎉 Merged PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-6. 💪 Opened PR [#1](https://github.com/XcodersHub/TorrentLeechX/pull/1) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+1. 💪 Opened PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+2. ❌ Closed PR [#2](https://github.com/XcodersHub/TorrentLeechX/pull/2) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+3. 💪 Opened PR [#1](https://github.com/AmirulAndalib/slam-mirrorbot-gdrive/pull/1) in [AmirulAndalib/slam-mirrorbot-gdrive](https://github.com/AmirulAndalib/slam-mirrorbot-gdrive)
+4. 💪 Opened PR [#2](https://github.com/XcodersHub/TorrentLeechX/pull/2) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+5. 🗣 Commented on [#12](https://github.com/sobuj53/rclnTrntleech/issues/12) in [sobuj53/rclnTrntleech](https://github.com/sobuj53/rclnTrntleech)
+6. 🗣 Commented on [#12](https://github.com/sobuj53/rclnTrntleech/issues/12) in [sobuj53/rclnTrntleech](https://github.com/sobuj53/rclnTrntleech)
 <!--END_SECTION:activity-->
 
 
