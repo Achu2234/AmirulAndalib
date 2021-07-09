@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/XcodersHub/TorrentLeechX/pull/4) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-2. 💪 Opened PR [#4](https://github.com/XcodersHub/TorrentLeechX/pull/4) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-3. 🎉 Merged PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-4. 💪 Opened PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-5. ❌ Closed PR [#2](https://github.com/XcodersHub/TorrentLeechX/pull/2) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-6. 💪 Opened PR [#1](https://github.com/AmirulAndalib/slam-mirrorbot-gdrive/pull/1) in [AmirulAndalib/slam-mirrorbot-gdrive](https://github.com/AmirulAndalib/slam-mirrorbot-gdrive)
+1. 🎉 Merged PR [#2](https://github.com/XcodersHub/TorToolkitX/pull/2) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+2. 💪 Opened PR [#2](https://github.com/XcodersHub/TorToolkitX/pull/2) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+3. 🎉 Merged PR [#4](https://github.com/XcodersHub/TorrentLeechX/pull/4) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+4. 💪 Opened PR [#4](https://github.com/XcodersHub/TorrentLeechX/pull/4) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+5. 🎉 Merged PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+6. 💪 Opened PR [#3](https://github.com/XcodersHub/TorrentLeechX/pull/3) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
 <!--END_SECTION:activity-->
 
 
