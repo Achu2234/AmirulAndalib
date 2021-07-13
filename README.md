@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#242](https://github.com/aahnik/tgcf/issues/242) in [aahnik/tgcf](https://github.com/aahnik/tgcf)
-2. 💪 Opened PR [#5](https://github.com/XcodersHub/TorrentLeechX/pull/5) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-3. 🎉 Merged PR [#2](https://github.com/XcodersHub/TorToolkitX/pull/2) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-4. 💪 Opened PR [#2](https://github.com/XcodersHub/TorToolkitX/pull/2) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-5. 🎉 Merged PR [#4](https://github.com/XcodersHub/TorrentLeechX/pull/4) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
-6. 💪 Opened PR [#4](https://github.com/XcodersHub/TorrentLeechX/pull/4) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+1. ❌ Closed PR [#83](https://github.com/yash-dk/TorToolkit-Telegram/pull/83) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+2. 💪 Opened PR [#83](https://github.com/yash-dk/TorToolkit-Telegram/pull/83) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+3. ❗️ Opened issue [#242](https://github.com/aahnik/tgcf/issues/242) in [aahnik/tgcf](https://github.com/aahnik/tgcf)
+4. 💪 Opened PR [#5](https://github.com/XcodersHub/TorrentLeechX/pull/5) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+5. 🎉 Merged PR [#2](https://github.com/XcodersHub/TorToolkitX/pull/2) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+6. 💪 Opened PR [#2](https://github.com/XcodersHub/TorToolkitX/pull/2) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
