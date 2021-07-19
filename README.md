@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#263](https://github.com/gautamajay52/TorrentLeech-Gdrive/issues/263) in [gautamajay52/TorrentLeech-Gdrive](https://github.com/gautamajay52/TorrentLeech-Gdrive)
-2. 🎉 Merged PR [#4](https://github.com/XcodersHub/TorToolkitX/pull/4) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-3. 💪 Opened PR [#4](https://github.com/XcodersHub/TorToolkitX/pull/4) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-4. 🎉 Merged PR [#3](https://github.com/XcodersHub/TorToolkitX/pull/3) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-5. 💪 Opened PR [#3](https://github.com/XcodersHub/TorToolkitX/pull/3) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-6. ❌ Closed PR [#83](https://github.com/yash-dk/TorToolkit-Telegram/pull/83) in [yash-dk/TorToolkit-Telegram](https://github.com/yash-dk/TorToolkit-Telegram)
+1. ❗️ Opened issue [#45](https://github.com/odysseusmax/tg-index/issues/45) in [odysseusmax/tg-index](https://github.com/odysseusmax/tg-index)
+2. 🗣 Commented on [#263](https://github.com/gautamajay52/TorrentLeech-Gdrive/issues/263) in [gautamajay52/TorrentLeech-Gdrive](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+3. 🎉 Merged PR [#4](https://github.com/XcodersHub/TorToolkitX/pull/4) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+4. 💪 Opened PR [#4](https://github.com/XcodersHub/TorToolkitX/pull/4) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+5. 🎉 Merged PR [#3](https://github.com/XcodersHub/TorToolkitX/pull/3) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+6. 💪 Opened PR [#3](https://github.com/XcodersHub/TorToolkitX/pull/3) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
