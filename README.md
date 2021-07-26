@@ -52,12 +52,12 @@
 ### :zap: Recent Activities:
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/XcodersHub/TorToolkitX/pull/12) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-2. 💪 Opened PR [#12](https://github.com/XcodersHub/TorToolkitX/pull/12) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-3. 🗣 Commented on [#29](https://github.com/libDrive/libDrive/issues/29) in [libDrive/libDrive](https://github.com/libDrive/libDrive)
-4. 🎉 Merged PR [#11](https://github.com/XcodersHub/TorToolkitX/pull/11) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-5. 💪 Opened PR [#11](https://github.com/XcodersHub/TorToolkitX/pull/11) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
-6. 🎉 Merged PR [#9](https://github.com/XcodersHub/TorToolkitX/pull/9) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+1. 🎉 Merged PR [#2](https://github.com/XcodersHub/TorrentLeechX/pull/2) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+2. 💪 Opened PR [#2](https://github.com/XcodersHub/TorrentLeechX/pull/2) in [XcodersHub/TorrentLeechX](https://github.com/XcodersHub/TorrentLeechX)
+3. 🎉 Merged PR [#12](https://github.com/XcodersHub/TorToolkitX/pull/12) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+4. 💪 Opened PR [#12](https://github.com/XcodersHub/TorToolkitX/pull/12) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
+5. 🗣 Commented on [#29](https://github.com/libDrive/libDrive/issues/29) in [libDrive/libDrive](https://github.com/libDrive/libDrive)
+6. 🎉 Merged PR [#11](https://github.com/XcodersHub/TorToolkitX/pull/11) in [XcodersHub/TorToolkitX](https://github.com/XcodersHub/TorToolkitX)
 <!--END_SECTION:activity-->
 
 
